@@ -1,0 +1,3 @@
+taskkill /f /im keys.exe
+taskkill /f /im keys.exe
+taskkill /f /im keys.exe
