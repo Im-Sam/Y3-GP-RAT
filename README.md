@@ -43,4 +43,4 @@ The project consists of several independent modules, each demonstrating a specif
 *   **Tools:** MinGW/GCC (for compilation)
 
 ## Disclaimer
-This software was developed for educational purposes as part of a university curriculum. It is intended to demonstrate technical proficiency in C and Windows API programming.
+This software was developed for educational purposes as part of a university research project. It is intended to demonstrate technical proficiency in C and Windows API programming.
